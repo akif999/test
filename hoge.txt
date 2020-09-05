@@ -4,3 +4,4 @@ piyo
 
 hoge
 piyo
+fuga
